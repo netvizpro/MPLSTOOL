@@ -201,4 +201,4 @@ For commercial licensing inquiries, please contact the copyright holder.
 
 **Built for network engineers, by network engineers.**
 
-*Generate accurate MPLS configurations in seconds, not hours.*
+*Generate accurate MPLS configurations in minutes, not hours.*
