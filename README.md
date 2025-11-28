@@ -181,21 +181,10 @@ Current Version: **2.0**
 
 ## License
 
-This software is proprietary and licensed for specific use cases only. See the [LICENSE.txt](LICENSE.txt) file for complete terms and conditions.
 
-**Permitted Uses:**
-- Internal organizational use for network configuration generation
 - Educational and training purposes
-- Laboratory and testing environments
+- Testing environments
 - Configuration generation for your own networks
-
-**Restrictions:**
-- No redistribution or resale
-- No commercial service offerings using this tool
-- No incorporation into products for redistribution
-- No modification or reverse engineering
-
-For commercial licensing inquiries, please contact the copyright holder.
 
 ---
 
